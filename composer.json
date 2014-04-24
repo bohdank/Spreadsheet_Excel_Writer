@@ -17,6 +17,7 @@
         }
     ],
     "require": {
+        "pear/ole": "dev-master"
     },
     "autoload": {
         "psr-0": { "Wk\\SpreadsheetExcelWriter": "" }
