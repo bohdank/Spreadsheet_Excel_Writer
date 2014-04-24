@@ -22,7 +22,7 @@
         "psr-0": { "Wk\\SpreadsheetExcelWriter": "" }
     },
      "include-path": [
-        ""
+        "Wk/SpreadsheetExcelWriter"
     ],
     "target-dir": "Wk/SpreadsheetExcelWriter",
     "minimum-stability": "dev"
